@@ -40,12 +40,12 @@ const Footer = () => {
             <p>
               Made with <span className="text-red-500 animate-pulse">❤</span> by{" "}
               <a
-                href="https://github.com/shantanupokale"
+                href="https://github.com/Samikshaborude9"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-white"
               >
-                Shantanu Pokale
+                Samiksha Borude
               </a>
             </p>
           </div>
